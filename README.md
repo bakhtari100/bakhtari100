@@ -21,7 +21,7 @@ Hello! I'm Bahamin Ayla! I’m a recent graduate with a Master’s in Biomedical
 ***Why data?*** 🤔
 > I’m drawn to data because it challenges me to solve problems and bring order to complexity. I find meaning in patterns and they exist everywhere, not just in datasets but in how systems, people, and the world connect. Through data, I explore those patterns to make the abstract tangible. Machine learning feels like the next step in that process, using what we’ve learned to predict what comes next and understand the world a little better each time.
 
-***Certifications I'm currently working on:***  
+***Certifications I'm currently working on:*** 🌱  
 >[AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)  
 [Oracle - OCI AI Foundations](https://mylearn.oracle.com/ou/learning-path/become-a-oci-ai-foundations-associate-2025/147781)  
 [Oracle - MySQL HeatWave Implementation Associate](https://mylearn.oracle.com/ou/learning-path/become-a-heatwave-mysql-implementation-associate/146114)  
