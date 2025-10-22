@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## ABOUT ME
-Hello! I'm Bahamin Ayla! I’m a recent graduate with a Master’s in Biomedical Informatics from the [McWilliams School of Biomedical Informatics at UTHealth](https://sbmi.uth.edu/).
+Hello! I'm Bahamin Ayla Akhtari! I’m a recent graduate with a Master’s in Biomedical Informatics from the [McWilliams School of Biomedical Informatics at UTHealth](https://sbmi.uth.edu/).
 
 ***Why data?*** 🤔
 > I’m drawn to data because it challenges me to solve problems and bring order to complexity. I find meaning in patterns and they exist everywhere, not just in datasets but in how systems, people, and the world connect. Through data, I explore those patterns to make the abstract tangible. Machine learning feels like the next step in that process, using what we’ve learned to predict what comes next and understand the world a little better each time.
