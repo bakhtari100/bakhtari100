@@ -77,6 +77,6 @@ Hello! I'm Bahamin Ayla Akhtari! You can call me Baha or Ayla! I’m a recent gr
   
 
 ### Connect With Me: 🤝
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([[https://linkedin.com/in/bahamin-ayla-akhtari/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bahamin-ayla-akhtari/)
 
 
