@@ -27,20 +27,20 @@ Hello! I'm Bahamin Ayla Akhtari! You can call me Baha or Ayla! I’m a recent gr
 > I’m drawn to data because it challenges me to solve problems and bring order to complexity. I find meaning in patterns and they exist everywhere, not just in datasets but in how systems, people, and the world connect. Through data, I explore those patterns to make the abstract tangible. Machine learning feels like the next step in that process, using what we’ve learned to predict what comes next and understand the world a little better each time.
 
 
-### ***Certifications I'm currently working on:*** 👩🏻‍💻  
+### ***Certifications I'm currently working on*** 👩🏻‍💻  
 - [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) 
 - [Oracle - OCI AI Foundations](https://mylearn.oracle.com/ou/learning-path/become-a-oci-ai-foundations-associate-2025/147781) 
 - [Oracle - MySQL HeatWave Implementation Associate](https://mylearn.oracle.com/ou/learning-path/become-a-heatwave-mysql-implementation-associate/146114) 
 
 
-### Featured Projects: 🗂️
+### Featured Projects 🗂️
 - **[Cafe Sales Analysis](https://github.com/bakhtari100/Cafe_Sales_Analysis):**
   An end-to-end data analytics project exploring sales trends and customer patterns using Python (Pandas, Matplotlib). Includes KPIs and visual dashboards.
 - **[Parkinson’s Disease Prediction](https://github.com/bakhtari100/Parkinsons-Disease):**
   Built an ML model to predict Parkinson’s using biomedical voice data. Applied data preprocessing, feature selection, and model evaluation.
 
 
-### Currently Learning: 🌱 
+### Currently Learning 🌱 
 - Advanced SQL for analytics and performance optimization
 - Data visualization best practices (Tableau / Power BI)
 - Deep learning and AI fundamentals (exploring how neural networks learn and make decisions)
@@ -49,7 +49,7 @@ Hello! I'm Bahamin Ayla Akhtari! You can call me Baha or Ayla! I’m a recent gr
 
 
 
-### Some Tools I Have Used and Learned: 🛠️
+### Some Tools I Have Used and Learned 🛠️
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
@@ -70,13 +70,13 @@ Hello! I'm Bahamin Ayla Akhtari! You can call me Baha or Ayla! I’m a recent gr
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtari100&layout=compact&theme=tokyonight)
 
-### Fun Facts: ☕
+### Fun Facts ☕
 - I speak three languages...not programming ones, but linguistic: English, Farsi, and Azeri Turkish.
 - I have a growing collection of unread books; buying them is half the joy.
 - When I’m not coding, you’ll find me exploring new cafes (and judging them for their overpriced coffee).
   
 
-### Connect With Me: 🤝
+### Connect With Me 🤝
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bahamin-ayla-akhtari/)
 
 
