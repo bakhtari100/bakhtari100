@@ -35,7 +35,7 @@ Hello! I'm Bahamin Ayla Akhtari! You can call me Baha or Ayla! I’m a recent gr
 
 ### Featured Projects 🗂️
 - **[Cafe Sales Analysis](https://github.com/bakhtari100/Cafe_Sales_Analysis):**
-  An end-to-end data analytics project exploring sales trends and customer patterns using Python (Pandas, Matplotlib). Includes KPIs and visual dashboards.
+  Conducted an end-to-end data analytics project using Python (Pandas, Matplotlib) to analyze café sales trends, forecast performance, and identify growth opportunities.
 - **[Parkinson’s Disease Prediction](https://github.com/bakhtari100/Parkinsons-Disease):**
   Built an ML model to predict Parkinson’s using biomedical voice data. Applied data preprocessing, feature selection, and model evaluation.
 
