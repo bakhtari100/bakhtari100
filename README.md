@@ -29,8 +29,8 @@ Hello! I'm Bahamin Ayla Akhtari! You can call me Baha or Ayla! I’m a recent gr
 
 ### ***Certifications I'm currently working on*** 👩🏻‍💻  
 - [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) 
-- [Oracle - OCI AI Foundations](https://mylearn.oracle.com/ou/learning-path/become-a-oci-ai-foundations-associate-2025/147781) 
-- [Oracle - MySQL HeatWave Implementation Associate](https://mylearn.oracle.com/ou/learning-path/become-a-heatwave-mysql-implementation-associate/146114) 
+- [Oracle - OCI AI Foundations](https://mylearn.oracle.com/ou/learning-path/become-a-oci-ai-foundations-associate-2025/147781) [Complete]
+
 
 
 ### Featured Projects 🗂️
