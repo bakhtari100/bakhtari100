@@ -38,6 +38,7 @@ Hello! I'm Bahamin Ayla Akhtari! You can call me Baha or Ayla! I’m a recent gr
   Conducted an end-to-end data analytics project using Python (Pandas, Matplotlib) to analyze café sales trends, forecast performance, and identify growth opportunities.
 - **[Parkinson’s Disease Prediction](https://github.com/bakhtari100/Parkinsons-Disease):**
   Built an ML model to predict Parkinson’s using biomedical voice data. Applied data preprocessing, feature selection, and model evaluation.
+- **[TikTok Hashtag Trend Analyzer](https://github.com/bakhtari100/Exa-Search-Engine):** Tracked TikTok hashtag trends from 2022–2025 for any topic using Python, Exa API, and TextBlob. Performed sentiment analysis, identified top hashtags per year, and visualized trends with line charts.
 
 
 ### Currently Learning 🌱 
